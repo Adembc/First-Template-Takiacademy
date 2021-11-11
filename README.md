@@ -79,4 +79,4 @@ Learning more about JavaScript Built-in Functions to avoide creating function th
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp) - This helped me for creating scrolling list
+- [W3schools](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp) - This helped me  creating scrolling list
