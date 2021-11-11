@@ -1,7 +1,9 @@
 # First Template Takiacademy
 
 This is a solution to this [challenge](https://projects.invisionapp.com/share/5DFUZ25XHZN#/screens/282343926).
- Live Site URL [Here](https://adembc.github.io/First-Template-Takiacademy/)
+ Live Site URL [Here](https://adembc.github.io/First-Template-Takiacademy/).
+
+Notice : SVG files will not be shown while hosting the website [Read more](https://www.sitepoint.com/why-hosting-your-svgs-is-hard-and-how-to-beat-it/).
 
 ## Table of contents
 
@@ -72,7 +74,9 @@ function checkLinks() {
 ```
 
 ### Continued development
-Learning more about JavaScript Built-in Functions to avoide creating function that already exist and save time and energy "scrollLeft" 
+
+Learning more about JavaScript Built-in Functions to avoide creating function that already exist and save time and energy "scrollLeft".
+
 ### Useful resources
 
 - [W3schools](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp) - This helped me for creating scrolling list
