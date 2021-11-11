@@ -1,7 +1,7 @@
 # First Template Takiacademy
 
 This is a solution to this [challenge](https://projects.invisionapp.com/share/5DFUZ25XHZN#/screens/282343926).
- Live Site URL [Here](https://your-live-site-url.com)
+ Live Site URL [Here](https://adembc.github.io/First-Template-Takiacademy/)
 
 ## Table of contents
 
